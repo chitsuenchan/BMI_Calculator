@@ -1,5 +1,5 @@
-# Weather App
-<img src="ExampleScreenshots/hongKong.jpg" height="500"><img src="ExampleScreenshots/lightmode.jpg" height="500"><img src="ExampleScreenshots/darkmode.jpg" height="500">
+# BMI Calculator iOS App
+<img src="ExampleScreenshots/home-1.jpg" height="500"><img src="ExampleScreenshots/home-2.jpg" height="500"><img src="ExampleScreenshots/home-3.jpg" height="500"><img src="ExampleScreenshots/home-4.jpg" height="500">
 
 **Table of Contents**
 - [Introduction](#introduction)
@@ -51,39 +51,26 @@ Project is completed.
 
 ### Adjustable sliders for height and weight
 
-<img src="ExampleScreenshots/lightmode.jpg" height="500"><img src="ExampleScreenshots/darkmode.jpg" height="500">
+<img src="ExampleScreenshots/adjustableSlider-1.jpg" height="500"><img src="ExampleScreenshots/adjustableSlider-2.jpg" height="500">
 
-* Displays a light or dark theme based on user's device
+* User can adjust height and weight inputs by moving the slider
+* Height and weight labels will get refreshed in real-time as the user moves the slider
 
 ### BMI calculation and advice
 
-<img src="ExampleScreenshots/searchForLocation.jpg" height="500"><img src="ExampleScreenshots/searchForLocation-2.jpg" height="500">
+<img src="ExampleScreenshots/bmiCalculation.jpg" height="500">
 
-* User can use the search textbox to find weather information for a certain location
-* User can press enter or use the magnifind glass icon
+* After user presses on "CALCULATE" the app will calculate their BMI score based on actual medical calculations
 
 ### Different BMI messages for different calculations
 
-<img src="ExampleScreenshots/weatherIconUpdate-1.jpg" height="500"><img src="ExampleScreenshots/weatherIconUpdate-2.jpg" height="500">
+<img src="ExampleScreenshots/home-2.jpg" height="500"><img src="ExampleScreenshots/home-3.jpg" height="500"><img src="ExampleScreenshots/home-4.jpg" height="500">
 
-* weather image will change depending on the weather data from https://openweathermap.org/
-* For example, if its cloudy at that location it will show a cloudy image
-
-### Ask for user's current location
-
-<img src="ExampleScreenshots/askForCurrentLocation.jpg" height="500">
-
-* Prompts the user to give permission to provide current location
-
-### Reset weather to user's current location
-
-<img src="ExampleScreenshots/getCurrentLocation.jpg" height="500">
-
-* User can reset the weather to their current location
+* User will receive different BMI messages for different BMI scores
 
 # Installation <a name="installation"></a>
 * Ensure XCode is installed (only available on MacOS)
 
 # Execution <a name="execution"></a>
-* Open the "Clima.xcodeproj" file in XCode
+* Open the "BMI Calculator.xcodeproj" file in XCode
 * Once the project is open you can click the play button at the top of the IDE to run the iPhone simulator or use a physical device
