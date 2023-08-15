@@ -27,7 +27,7 @@ This is a personal learning project aimed to teach me how to use Optionals, soli
       <td>Notable Technology Utilized</td>
       <td>
         <ul>
-          <li>Swift Language + Storyboard</li>
+          <li>Storyboard</li>
           <li>Creating multi-screen and animated navigation</li>
           <li>Slider widget</li>
           <li>Optional binding, optional chaining and nil coalescing operator</li>
